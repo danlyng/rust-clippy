@@ -379,7 +379,7 @@ declare_clippy_lint! {
     ///
     /// ### Example
     /// ```no_run
-    /// let wrogn: std::borrow::Cow<'_, Vec<u8>>;
+    /// let wrong: std::borrow::Cow<'_, Vec<u8>>;
     /// ```
     /// Use instead:
     /// ```no_run
